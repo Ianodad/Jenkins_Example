@@ -1,4 +1,4 @@
-ob('NodeJs Example') {
+job('NodeJs Example') {
 	scm{
 		git('git://github.com/Ianodad/Mailer.git') { node ->
 			node / gitConfigName('DSL User')
